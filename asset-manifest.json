@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Framer-Test/static/css/main.f7730e3c.css",
+    "main.js": "/Framer-Test/static/js/main.e5a02305.js",
+    "static/js/787.b34ea0ab.chunk.js": "/Framer-Test/static/js/787.b34ea0ab.chunk.js",
+    "static/media/logo.svg": "/Framer-Test/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Framer-Test/index.html",
+    "main.f7730e3c.css.map": "/Framer-Test/static/css/main.f7730e3c.css.map",
+    "main.e5a02305.js.map": "/Framer-Test/static/js/main.e5a02305.js.map",
+    "787.b34ea0ab.chunk.js.map": "/Framer-Test/static/js/787.b34ea0ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7730e3c.css",
+    "static/js/main.e5a02305.js"
+  ]
+}
